@@ -69,7 +69,7 @@ const Certifications = () => {
   return (
     <section id="certifications" className="section-padding">
       <div className="text-center mb-14">
-        <p className="font-mono text-sm text-primary-glow mb-3">// achievements</p>
+        <p className="font-mono text-sm text-primary-glow mb-3"></p>
         <h2 className="text-4xl md:text-5xl font-bold">
           Certifications & <span className="gradient-text">Courses</span>
         </h2>
