@@ -4,7 +4,7 @@ const Profiles = () => {
   return (
     <section id="profiles" className="section-padding">
       <div className="text-center mb-14">
-        <p className="font-mono text-sm text-primary-glow mb-3">// coding profiles</p>
+        <p className="font-mono text-sm text-primary-glow mb-3"></p>
         <h2 className="text-4xl md:text-5xl font-bold">
           Where I <span className="gradient-text">Build & Compete</span>
         </h2>
