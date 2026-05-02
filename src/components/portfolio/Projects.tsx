@@ -16,7 +16,7 @@ const projects = [
       "A centralized platform for managing college events, enabling organizers to create, update, and track events while allowing students to register and receive notifications. Designed to streamline event coordination and improve campus engagement.",
     tech: ["MongoDB", "React", "Node.js", "Express"],
     github: "https://github.com/Sandhya-murali03/Campus-Event.git",
-    demo: "https://www.figma.com/make/6zlfg4wI7sxRlkLSVSvwqo/Campus-Event-Management-System-UI?fullscreen=1&t=FmWJ4Pt9jB41r61N-1",
+    demo: "https://campus-event-management-rho.vercel.app/",
   },
   {
     title: "Hotel Management System",
