@@ -34,7 +34,7 @@ const Contact = () => {
   return (
     <section id="contact" className="section-padding pb-32">
       <div className="text-center mb-14">
-        <p className="font-mono text-sm text-primary-glow mb-3">// get in touch</p>
+        <p className="font-mono text-sm text-primary-glow mb-3"></p>
         <h2 className="text-4xl md:text-5xl font-bold">
           Let's <span className="gradient-text">Connect</span>
         </h2>
