@@ -11,7 +11,7 @@ const About = () => {
     <section id="about" className="section-padding">
       <div className="grid md:grid-cols-2 gap-14 items-center">
         <div>
-          <p className="font-mono text-sm text-primary-glow mb-3">// about me</p>
+          <p className="font-mono text-sm text-primary-glow mb-3"></p>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Turning ideas  <span className="gradient-text">into practical solutions</span>
           </h2>
