@@ -64,7 +64,7 @@ const Projects = () => {
   return (
     <section id="projects" className="section-padding">
       <div className="text-center mb-14">
-        <p className="font-mono text-sm text-primary-glow mb-3">// selected work</p>
+        <p className="font-mono text-sm text-primary-glow mb-3"></p>
         <h2 className="text-4xl md:text-5xl font-bold">
           Featured <span className="gradient-text">Projects</span>
         </h2>
